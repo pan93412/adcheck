@@ -1,11 +1,15 @@
 {
   "name": "adcheck",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple AdBlocker checker, with the typing file of TypeScript.",
   "main": "checker.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "pan93412",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pan93412/adcheck"
+  }
 }
