@@ -1,6 +1,8 @@
 # AdCheck
 A simple AdBlocker checker, with the typing file of TypeScript.
 
+The source code is from [here](https://blog.reh.tw/archives/2273), thanks GoneTone! :)
+
 ## Usage
 ```html
 <script src="./checker.js"></script>
