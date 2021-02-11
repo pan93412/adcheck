@@ -1,0 +1,11 @@
+{
+  "name": "adcheck",
+  "version": "1.0.0",
+  "description": "A simple AdBlocker checker, with the typing file of TypeScript.",
+  "main": "checker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pan93412",
+  "license": "MIT"
+}
